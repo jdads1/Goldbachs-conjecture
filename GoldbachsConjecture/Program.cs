@@ -11,7 +11,7 @@ namespace GoldbachsConjecture
             Console.WriteLine("-------------------------------------------------------");
             Console.WriteLine("-------------------PRIME CALCULATOR--------------------");
             Console.WriteLine("-------------------------------------------------------");
-
+             
             // loop until done
             while (!exit)
             {
